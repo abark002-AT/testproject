@@ -1,3 +1,3 @@
 # testproject
 
-Testing if this github thing actuslly works
+Testing if this github thing actually works
