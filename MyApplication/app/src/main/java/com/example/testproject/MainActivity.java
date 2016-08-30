@@ -13,5 +13,8 @@ public class MainActivity extends AppCompatActivity {
 
     protected void HelloWorld() {
         //print HelloWorld! here
+        System.out.println("Hello, World");
     }
+
+
 }
